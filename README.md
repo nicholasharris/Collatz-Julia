@@ -1,0 +1,1 @@
+Julia code for playing around with the Collatz conjecture (3n + 1 problem), a famous problem in mathematics. This code represents numbers as binary strings, allowing it to work with very large numbers (I have tested convergence for numbers as large as 2^20,000) . Also performs exhaustive tests for convergence and plots stopping times.
